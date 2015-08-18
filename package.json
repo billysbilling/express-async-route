@@ -1,8 +1,11 @@
 {
-    "name": "async-route",
+    "name": "express-async-route",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "Henrik Tudborg",
+    "author": {
+        "name": "Henrik Tudborg",
+        "email": "henrik@billy.dk"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/billysbilling/express-async-route.git"
